@@ -40,16 +40,10 @@ SDK名称	   SDK包名	               SDK用途	                                
 阿里weexSDK	com.taobao	         uni-app基础模块默认集成，用于渲染uniapp的nvue页面引擎	存储的个人文件	   读取外置存储器、写入外置存储器	 http://doc.weex.io/zh
 fresco图片库	com.facebook.fresco	 uni-app基础模块默认集成，用于nvue页面加载图片使用	存储的个人文件	      读取外置存储器、写入外置存储器	  https://www.fresco-cn.org/
 
-|     SDK名称    |  SDK包名      | SDK用途	  | 可能获取的个人信息类型 | 调用的设备权限  | 官网链接 |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 阿里weexSDK | com.taobao  | uni-app基础模块默认集成，用于渲染uniapp的nvue页面引擎  | 存储的个人文件  | 读取外置存储器、写入外置存储器  | http://doc.weex.io/zh  |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| fresco图片库  | com.facebook.fresco  | uni-app基础模块默认集成，用于nvue页面加载图片使用  | 存储的个人文件  | 读取外置存储器、写入外置存储器  |https://www.fresco-cn.org/  |
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
    二, 我们如何使用Cookie技术
       为确保网站或APP正常运转，我们会在您的计算机或移动设备上储存名为Cookie的小数据文件。Cookie通常包含标识符、站点名称以及一些号码和字符。借助于Cookie，网站或APP能够储存您的偏好数据。我们不会将Cookie用于本政策所述目的之外的任何用途。您可根据自己的偏好管理或删除Cookie。您可以清除计算机上保存的所有Cookie，大部分网络浏览器都设有阻止Cookie的功能。但如果您这么做，则需要在每一次访问我们的网站或APP时更改用户设置。
 
